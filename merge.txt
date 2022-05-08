@@ -1,4 +1,3 @@
-second file to make merge confliction
-
+To make merge confliction
 
 
