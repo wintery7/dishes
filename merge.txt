@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 second file to make merge confliction
 
 
 
->>>>>>> firstBranch
